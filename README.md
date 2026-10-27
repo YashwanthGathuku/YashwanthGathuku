@@ -25,19 +25,11 @@ I'm **Yashwanth (Ash)**. I build infrastructure for autonomous agents where the 
 
 | | Project | What it does |
 |:-:|---|---|
-| 🧪 | **TheUstad** | Verification-and-retry runtime for coding agents. Treats "done" as a claim, protects the tests the agent started with, and records a tamper-evident audit trail. *Source opens at launch.* |
+| 🧪 | **TheUstad** | Verification-and-retry runtime for coding agents. Treats "done" as a claim, protects the tests the agent started with, and records a tamper-evident audit trail. |
 | 🌿 | **[Git4agents](https://github.com/YashwanthGathuku/Git4agents)** | Many agents, one repo, zero write authority. Only the exact state that passes independent gates is promoted, with a signed bundle you can verify offline. Runs on Cloudflare Workers. |
 | 🔐 | **[Kinlock](https://github.com/YashwanthGathuku/kinlock)** | *Voice can ask. Your rules decide.* An MCP server for Alexa+ that sits between a spoken request and anything that spends money. |
 | 🛡️ | **[AROS](https://github.com/YashwanthGathuku/AROS)** | Local, harness-independent platform for explicitly authorized sandbox security research. Early MVP. |
 | ⚙️ | **[Madgrix](https://github.com/YashwanthGathuku/Madgrix)** | Governed promotion protocol for agent-written changes: intent → isolated contenders → verdict seam → exact-state permit → verifiable history. |
-
-### 🚀 Launching soon
-
-| Date | Launch | Status |
-|---|---|---|
-| **Nov 4, 2026** | 🧪 TheUstad | ![next](https://img.shields.io/badge/-next%20up-7c3aed?style=flat-square) |
-| **Nov 11, 2026** | 🌿 Git4agents | ![public](https://img.shields.io/badge/-public%20repo-1e3a8a?style=flat-square) |
-| **Nov 18, 2026** | 🔐 Kinlock | ![queued](https://img.shields.io/badge/-queued-475569?style=flat-square) |
 
 ### 🧰 Toolbox
 
